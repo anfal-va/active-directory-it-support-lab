@@ -27,7 +27,61 @@ Using Windows Server 2019 and a Windows 11 client in Oracle VirtualBox, I config
 
 ## Screenshots
 
-Screenshots below document the configuration and testing performed in this lab.
+### Lab Environment
+
+![Oracle VirtualBox Lab Environment](Lab_Environment_1.png)
+
+### Active Directory Structure
+
+![Active Directory Structure](AD_Structure_1.png)
+
+![HR Organizational Unit](AD_Structure_2.png)
+
+![IT Organizational Unit](AD_Structure_3.png)
+
+![Sales Organizational Unit](AD_Structure_4.png)
+
+### Domain Join
+
+![Windows 11 Domain Join](Domain_Join_1.png)
+
+### NTFS Permissions
+
+![NTFS Permissions](NTFS_Permissions_1.png)
+
+### File Access Testing
+
+**1. John Smith logged in as a domain user**
+
+![John Smith Domain Login](File_Access_Testing_1.png)
+
+**2. Authorized access to the IT shared folder**
+
+![Authorized IT Folder Access](File_Access_Testing_2.png)
+
+**3. Unauthorized access to the HR shared folder**
+
+![HR Folder Access Denied](File_Access_Testing_3.png)
+
+### Account Lockout and Unlock
+
+![Account Lockout](Account_Lockout_1.png)
+
+![Account Unlock](Account_Lockout_2.png)
+
+![Account Access Restored](Account_Lockout_3.png)
+
+### Password Reset
+
+![Password Reset in Active Directory](Password_Reset_1.png)
+
+![User Forced to Change Password](Password_Reset_2.png)
+
+### User Onboarding
+
+![New User Account Creation](User_Onboarding_1.png)
+
+![New User Account Configuration](User_Onboarding_2.png)
 
 ## Skills Practiced
 
