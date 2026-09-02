@@ -43,7 +43,7 @@ Using Windows Server 2019 and a Windows 11 client in Oracle VirtualBox, I config
 
 ### Domain Join
 
-![Windows 11 Domain Join](Domain_Join_1.png)
+![Windows 11 Domain Join](./Domain_Join_1.png)
 
 ### NTFS Permissions
 
