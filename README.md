@@ -43,7 +43,7 @@ Using Windows Server 2019 and a Windows 11 client in Oracle VirtualBox, I config
 
 ### Domain Join
 
-![Windows 11 Domain Join](./Domain_Join_1.png)
+![Windows 11 Domain Join](Domian_Join_1.png)
 
 ### NTFS Permissions
 
@@ -79,9 +79,9 @@ Using Windows Server 2019 and a Windows 11 client in Oracle VirtualBox, I config
 
 ### User Onboarding
 
-![New User Account Creation](User_Onboarding_1.png)
+![New User Account Creation](User_Onbording_1.png)
 
-![New User Account Configuration](User_Onboarding_2.png)
+![New User Account Configuration](User_Onbording_2.png)
 
 ## Skills Practiced
 
